@@ -1,5 +1,16 @@
 [
   {
+    "title": "Something to Prove",
+    "released": "7/14/19",
+    "tracklist": [
+      "Nah",
+      "No Celebration",
+      "Top In Da Coupe"
+    ],
+    "albumArt": "../../img/somehting-to-prove.jpg",
+    "description": "A joint mixtape with ATL navtive J-Queezy"
+  },
+  {
     "title": "Artistry",
     "released": "10/23/20",
     "tracklist": [
@@ -9,7 +20,7 @@
       "Greatest Alive"
     ],
     "albumArt": "../../img/artistry.jpg",
-    "description": "A collection of lost tracks. All tracks produced by F. Nebulous Exists."   
+    "description": "A collection of lost tracks. All tracks produced by F. Nebulous Exists."
   },
   {
     "title": "Rhyme Horder vol. 1",
@@ -23,5 +34,4 @@
     "albumArt": "../../img/rhyme-hoarder.jpg",
     "description": "A collection of lost tracks. All tracks produced by F. Nebulous Exists."
   }
-
 ]
