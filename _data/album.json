@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Artistry",
+    "released": "10/23/20",
+    "tracklist": [
+      "Art ft. Andrea",
+      "Trip",
+      "Benders ft. Slick Lonna & Andrea",
+      "Greatest Alive"
+    ],
+    "albumArt": "../../img/artistry.jpg",
+    "description": "A collection of lost tracks. All tracks produced by F. Nebulous Exists."   
+  },
+  {
+    "title": "Rhyme Horder vol. 1",
+    "released": "12/28/18",
+    "tracklist": [
+      "SPITTAA (intro)",
+      "The Illest Interlude",
+      "RED",
+      "DreamCast"
+    ],
+    "albumArt": "../../img/rhyme-hoarder.jpg",
+    "description": "A collection of lost tracks. All tracks produced by F. Nebulous Exists."
+  }
+
+]
