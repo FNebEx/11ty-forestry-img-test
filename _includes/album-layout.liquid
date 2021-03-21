@@ -10,7 +10,7 @@
 <body>
   <h1>{{ album.title}}</h1>
   <h5>{{ album.released }}</h5>
-  <img src="{{ album.albumArt}}" alt="">
+  <img src="../../{{ album.albumArt}}" alt="">
   <!-- tracklist -->
   <ol>
     {% for tracklist in album.tracklist %}
