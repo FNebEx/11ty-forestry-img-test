@@ -1,4 +1,10 @@
 ---
 label: Album
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+  description: The title of the album
